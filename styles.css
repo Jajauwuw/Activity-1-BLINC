@@ -1,0 +1,71 @@
+.card {
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .card-img-overlay {
+    color: #000;
+  }
+  
+  .card h2 {
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+  }
+
+  .card h5 {
+    color: white;
+  }
+  
+  .card-link {
+    color: white;
+    font-weight: bold;
+  }
+  
+  .card img {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+  }
+  
+  .col-12,
+  .col-6 {
+    padding-left: 10;
+    padding-right: 1;
+    padding-bottom: 5%;
+  }
+  .card-img-right {
+    margin-left: auto;
+    margin-right: 0;
+    
+}
+.card-img-left {
+    margin-left: auto;
+    margin-right: 0;
+}
+.navbar-brand {
+  font-weight: bold;
+}
+.nav-item {
+  font-weight: bold;
+  color: white;
+}
+body {
+  font-family: 'Poppins', sans-serif;
+  }
+.container {
+  width: 900px;
+  height: 100%;
+}
+a {
+  color: black;
+}
+.card-link:hover {
+  color: black;
+}
+a:hover {
+  color: black;
+}
+.navbar {
+  background-color: #22c55e;
+}
